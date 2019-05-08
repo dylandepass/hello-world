@@ -1,5 +1,5 @@
 ## TEST
 
-This content came from github
+This content came from github.
 
 ---
